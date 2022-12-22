@@ -1,0 +1,80 @@
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: rgb(215, 197, 114);
+	color: rgb(0, 0, 0);
+	border-radius: 40%;
+	}
+
+#clear{
+width: 250px;
+border: 3px solid rgb(207, 92, 92);
+border-radius: 15% ;
+	padding:5%;
+	background-color: red;
+	align-items: center;
+}
+
+.formstyle
+{
+width: 300px;
+height: 530px;
+margin: auto;
+border: 3px solid rgb(243, 3, 115);
+border-radius: 20% 17%;
+padding: 20px;
+background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+
+
+
+input
+{
+width: 20px;
+background-color: rgb(255, 255, 255);
+color: rgb(15, 13, 13);
+border: 3px solid rgb(233, 138, 138);
+
+border-radius: 25% 15%;
+	 padding: 25px; 
+	margin: 5px;
+	font-size: 17px; 
+
+	
+	
+}
+
+
+#calc{
+width: 250px;
+border-radius: 30% ;
+	 padding: 16px; 
+	margin: auto;
+	color: rgb(255, 0, 255);
+	font-size: x-large;
+}
+body{
+	background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+
+}
+
+.multi{
+	background-color: cyan;
+}
+.add{
+background-color: coral;
+}
+.less{
+background-color: deeppink;
+}
+
+.divd{
+background-color: olivedrab;
+}
+.equ{
+	background-color: rgb(87, 130, 222);
+	box-shadow:black;
+}
+.dot{
+	background-color: rgb(203, 224, 60);
+}
